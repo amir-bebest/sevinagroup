@@ -2,7 +2,7 @@
 
 **Specialized Audio Platform for the Blind and Visually Impaired**
 
-## 🔗 Live Demo
+##  Live Demo
 [Visit Website](https://sevinagroup.com/)
 
 ##  About the Project
