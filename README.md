@@ -5,10 +5,10 @@
 ## 🔗 Live Demo
 [Visit Website](https://sevinagroup.com/)
 
-## 📋 About the Project
+##  About the Project
 Sevina (Special Cinema for the Blind) is an accessibility-focused audio platform that provides audio-described versions of movies and series for blind and visually impaired people. The project aims to make cinematic content accessible to everyone.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Next.js**
 - **Node.js**
 - React
@@ -17,16 +17,16 @@ Sevina (Special Cinema for the Blind) is an accessibility-focused audio platform
 - Custom Backend & API
 - Accessibility features (WCAG)
 
-## ✨ Key Features
+##  Key Features
 - Audio-described movie and series content
 - User-friendly interface for visually impaired users
 - Accessible design and navigation
 - Content management system for audio files
 - Social impact project with strong mission
 
-## 🎯 Mission
+##  Mission
 Making cinema and visual content accessible to blind and low-vision community through high-quality audio descriptions.
 
 ---
 
-Built with ❤️ by [Amir Farzaneh](https://github.com/amir-bebest)
+Built by [Amir Farzaneh](https://github.com/amir-bebest)
